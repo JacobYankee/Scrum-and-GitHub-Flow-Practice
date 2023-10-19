@@ -1,0 +1,3 @@
+Cool
+
+this document actually serves a purpose unlike that lousy hello.txt
